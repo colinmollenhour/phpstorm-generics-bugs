@@ -1,0 +1,12 @@
+{
+    "name": "colin/devsense-test",
+    "type": "project",
+    "require": {
+        "ext-date": "*"
+    },
+    "config": {
+        "platform": {
+            "php": "8.2"
+        }
+    }
+}
